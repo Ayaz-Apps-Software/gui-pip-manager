@@ -1,0 +1,8 @@
+NOTICE
+
+This software is licensed under the Ayaz License.
+
+Attribution to Ayaz is a legal requirement.  
+Failure to comply constitutes a violation of copyright law and may result in legal action.
+
+For full terms, see LICENSE.
