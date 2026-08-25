@@ -37,7 +37,6 @@ For permissions beyond this License, contact the author.
 If you like this project and want to help it grow, you can support me here:
 
 - [GitHub Sponsors](https://github.com/sponsors/ayazbalamir032)  
-- [Buy Me a Coffee](https://buymeacoffee.com/ayazware)  
 - [Patreon](https://patreon.com/ayazware)
 
 Every contribution helps AyazWare projects evolve and bring new features 🚀
