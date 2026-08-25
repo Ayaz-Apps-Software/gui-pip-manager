@@ -9,7 +9,7 @@ ctk.set_default_color_theme("blue")
 class PipManager(ctk.CTk):
     def __init__(self):
         super().__init__()
-        self.title("Advanced Pip Manager")
+        self.title("GUI Pip Manager")
         self.geometry("600x450")
 
         self.entry = ctk.CTkEntry(self, placeholder_text="Enter package name (e.g., numpy)", width=300)
