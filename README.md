@@ -33,7 +33,7 @@ For permissions beyond this License, contact the author.
 
 ## Support
 
-If you like this project and want to help it grow, you can support me here:
+💖If you like this project and want to help it grow, you can support me here:
 
 - [GitHub Sponsors](https://github.com/sponsors/ayazbalamir032)  
 - [Patreon](https://patreon.com/ayazware)
