@@ -31,3 +31,13 @@ Submission of a pull request constitutes a binding agreement to the Ayaz License
 ## Disclaimer
 The software is provided "AS IS", without warranty of any kind, express or implied.  
 For permissions beyond this License, contact the author.
+
+## Support
+
+If you like this project and want to help it grow, you can support me here:
+
+- [GitHub Sponsors](https://github.com/sponsors/ayazbalamir032)  
+- [Buy Me a Coffee](https://buymeacoffee.com/ayazware)  
+- [Patreon](https://patreon.com/ayazware)
+
+Every contribution helps AyazWare projects evolve and bring new features 🚀
