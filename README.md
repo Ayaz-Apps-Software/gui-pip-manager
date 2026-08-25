@@ -10,6 +10,9 @@ This project is distributed under the Ayaz License.
 - Dark mode user interface
 - Legal attribution banner (Ayaz License)
 
+## Download
+You can download the compiled executable from the [Releases](https://github.com/Ayaz-Apps-Software/gui-pip-manager/releases) section.
+
 ## Installation
 Clone the repository and run:
 git clone https://github.com/Ayaz-Apps-Software/gui-pip-manager.git
